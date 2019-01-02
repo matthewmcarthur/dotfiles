@@ -1,3 +1,5 @@
 #!/bin/sh
 xset r rate 175 35
-./elecom-scroll
+./elecom-scroll.sh
+./rebind-caps-esc.sh
+./set-key-repeat.sh
